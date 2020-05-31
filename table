@@ -1,0 +1,4 @@
+userID: long(PK)	sessionID: long(PK)	timestamp: dateTime	clickedPoint: coordinate	missionID: int(FK)	isHit: ENUM/string	Score: (int)
+100	4356	10/12/2015::14:15:09	(4,8)	13	yes	10
+101	3241	10/23/2015::14:15:19	(20,5)	18	no	0
+102	4537	11/4/2015::14:15:20	(17,43)	21	no	0
